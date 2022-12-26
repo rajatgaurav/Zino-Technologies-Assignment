@@ -1,2 +1,2 @@
 # Zino-Technologies-Assignment
-# Hosting Link : react-card-rg.netlify.app
+# Hosted Link : react-card-rg.netlify.app
